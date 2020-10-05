@@ -1,0 +1,4 @@
+[0,1]-Você acertou um Destroyer!
+[0,2]-Você acertou um Destroyer!
+Você afundou o Destroyer!
+[0,3]-Você acertou a Água
